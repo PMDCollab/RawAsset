@@ -4,4 +4,64 @@
   <CharHeight>12</CharHeight>
   <CharSpace>0</CharSpace>
   <LineSpace>1</LineSpace>
+  <Colorless>
+    <Glyph>E024</Glyph>
+	
+    <Glyph>E040</Glyph>
+	
+    <Glyph>E0A0</Glyph>
+    <Glyph>E0A1</Glyph>
+    <Glyph>E0A2</Glyph>
+    <Glyph>E0A3</Glyph>
+    <Glyph>E0A4</Glyph>
+    <Glyph>E0A5</Glyph>
+    <Glyph>E0A6</Glyph>
+    <Glyph>E0A7</Glyph>
+    <Glyph>E0A8</Glyph>
+    <Glyph>E0A9</Glyph>
+    <Glyph>E0AA</Glyph>
+    <Glyph>E0AB</Glyph>
+    <Glyph>E0AC</Glyph>
+    <Glyph>E0AD</Glyph>
+    <Glyph>E0AE</Glyph>
+    <Glyph>E0AF</Glyph>
+    <Glyph>E0B0</Glyph>
+    <Glyph>E0B1</Glyph>
+    <Glyph>E0B2</Glyph>
+	
+    <Glyph>E080</Glyph>
+    <Glyph>E081</Glyph>
+    <Glyph>E082</Glyph>
+    <Glyph>E083</Glyph>
+    <Glyph>E084</Glyph>
+    <Glyph>E085</Glyph>
+    <Glyph>E086</Glyph>
+    <Glyph>E087</Glyph>
+    <Glyph>E088</Glyph>
+    <Glyph>E089</Glyph>
+    <Glyph>E08A</Glyph>
+    <Glyph>E08B</Glyph>
+    <Glyph>E08C</Glyph>
+    <Glyph>E08D</Glyph>
+    <Glyph>E08E</Glyph>
+    <Glyph>E08F</Glyph>
+    <Glyph>E090</Glyph>
+    <Glyph>E091</Glyph>
+    <Glyph>E092</Glyph>
+	
+    <Glyph>E100</Glyph>
+    <Glyph>E101</Glyph>
+    <Glyph>E102</Glyph>
+    <Glyph>E103</Glyph>
+    <Glyph>E104</Glyph>
+    <Glyph>E105</Glyph>
+    <Glyph>E106</Glyph>
+    <Glyph>E107</Glyph>
+    <Glyph>E108</Glyph>
+    <Glyph>E109</Glyph>
+    <Glyph>E10A</Glyph>
+    <Glyph>E10B</Glyph>
+    <Glyph>E10C</Glyph>
+    <Glyph>E10D</Glyph>
+  </Colorless>
 </FontData>
