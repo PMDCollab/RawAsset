@@ -1,0 +1,14 @@
+{
+  "0000": {
+    "name": "Missingno_",
+    "portrait_dest": -1,
+    "sprite_dest": -2,
+    "subgroups": {}
+  },
+  "0001": {
+    "name": "Bulbasaur",
+    "portrait_dest": -1,
+    "sprite_dest": -2,
+    "subgroups": {}
+  }
+}
