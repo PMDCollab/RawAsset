@@ -931,78 +931,78 @@
       },
       "0002": {
         "name": "Rock_Star",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
       },
       "0003": {
         "name": "Belle",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
       },
       "0004": {
         "name": "Pop_Star",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
       },
       "0005": {
         "name": "Ph_D",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
       },
       "0006": {
         "name": "Libre",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
       },
       "0007": {
         "name": "Cosplay",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": -2,
+        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
