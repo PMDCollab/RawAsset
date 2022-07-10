@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<LegacyDungeonTileset>
-  <RogueEssence>
-    <Wall>451</Wall>
-    <Floor>452</Floor>
-    <Secondary>453</Secondary>
-  </RogueEssence>
-</LegacyDungeonTileset>
