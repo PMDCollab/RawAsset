@@ -3,12 +3,14 @@
     "name": "Missingno_",
     "portrait_dest": -1,
     "sprite_dest": -2,
+    "idle": false,
     "subgroups": {}
   },
   "0001": {
     "name": "Bulbasaur",
     "portrait_dest": -1,
     "sprite_dest": -2,
+    "idle": false,
     "subgroups": {}
   }
 }
