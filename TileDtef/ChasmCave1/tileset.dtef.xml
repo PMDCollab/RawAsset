@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<DungeonTileset dimensions="24">
-  <RogueEssence>
-    <Wall>258</Wall>
-    <Floor>259</Floor>
-  </RogueEssence>
-</DungeonTileset>
