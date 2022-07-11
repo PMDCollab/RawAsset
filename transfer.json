@@ -647,25 +647,25 @@
     "name": "Butterfree",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -674,13 +674,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -691,13 +691,13 @@
         "name": "Gigantamax",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -754,19 +754,19 @@
     "name": "Beedrill",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -775,13 +775,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -1774,25 +1774,25 @@
     "name": "Zubat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -1801,13 +1801,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -1820,25 +1820,25 @@
     "name": "Golbat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -1847,13 +1847,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -1864,19 +1864,19 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -2,
                 "sprite_dest": -2,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -1885,13 +1885,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -2,
                 "sprite_dest": -2,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -2103,19 +2103,19 @@
     "name": "Venomoth",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -2560,19 +2560,19 @@
     "name": "Abra",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -2812,19 +2812,19 @@
     "name": "Tentacool",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -2835,19 +2835,19 @@
     "name": "Tentacruel",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -3154,19 +3154,19 @@
     "name": "Magnemite",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -3177,19 +3177,19 @@
     "name": "Magneton",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -3528,19 +3528,19 @@
     "name": "Gastly",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -3549,13 +3549,13 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -3566,19 +3566,19 @@
     "name": "Haunter",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4077,19 +4077,19 @@
     "name": "Koffing",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4100,19 +4100,19 @@
     "name": "Weezing",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4121,13 +4121,13 @@
         "name": "Galar",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4314,19 +4314,19 @@
     "name": "Horsea",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4337,19 +4337,19 @@
     "name": "Seadra",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4360,19 +4360,19 @@
     "name": "Goldeen",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4712,25 +4712,25 @@
     "name": "Gyarados",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -4739,7 +4739,7 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
@@ -4756,13 +4756,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -4964,19 +4964,19 @@
     "name": "Porygon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5079,19 +5079,19 @@
     "name": "Aerodactyl",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5155,19 +5155,19 @@
     "name": "Articuno",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5176,13 +5176,13 @@
         "name": "Galar",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5193,19 +5193,19 @@
     "name": "Zapdos",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5214,13 +5214,13 @@
         "name": "Galar",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5231,19 +5231,19 @@
     "name": "Moltres",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5252,13 +5252,13 @@
         "name": "Galar",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5421,19 +5421,19 @@
     "name": "Mew",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5442,13 +5442,13 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5826,25 +5826,25 @@
     "name": "Ledyba",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -5853,13 +5853,13 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -5872,25 +5872,25 @@
     "name": "Ledian",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -5899,13 +5899,13 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -5964,19 +5964,19 @@
     "name": "Crobat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -5987,19 +5987,19 @@
     "name": "Chinchou",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6010,19 +6010,19 @@
     "name": "Lanturn",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6500,19 +6500,19 @@
     "name": "Jumpluff",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6615,19 +6615,19 @@
     "name": "Yanma",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6905,19 +6905,19 @@
     "name": "Misdreavus",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6928,19 +6928,19 @@
     "name": "Unown",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6949,13 +6949,13 @@
         "name": "B",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6964,13 +6964,13 @@
         "name": "C",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6979,13 +6979,13 @@
         "name": "D",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -6994,13 +6994,13 @@
         "name": "E",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7009,13 +7009,13 @@
         "name": "F",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7024,13 +7024,13 @@
         "name": "G",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7039,13 +7039,13 @@
         "name": "H",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7054,13 +7054,13 @@
         "name": "I",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7069,13 +7069,13 @@
         "name": "J",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7084,13 +7084,13 @@
         "name": "K",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7099,13 +7099,13 @@
         "name": "L",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7114,13 +7114,13 @@
         "name": "M",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7129,13 +7129,13 @@
         "name": "N",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7144,13 +7144,13 @@
         "name": "O",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7159,13 +7159,13 @@
         "name": "P",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7174,13 +7174,13 @@
         "name": "Q",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7189,13 +7189,13 @@
         "name": "R",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7204,13 +7204,13 @@
         "name": "S",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7219,13 +7219,13 @@
         "name": "T",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7234,13 +7234,13 @@
         "name": "U",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7249,13 +7249,13 @@
         "name": "V",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7264,13 +7264,13 @@
         "name": "W",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7279,13 +7279,13 @@
         "name": "X",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7294,13 +7294,13 @@
         "name": "Y",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7309,13 +7309,13 @@
         "name": "Z",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7324,13 +7324,13 @@
         "name": "Exclamation",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7339,13 +7339,13 @@
         "name": "Question",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7471,19 +7471,19 @@
     "name": "Forretress",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7517,19 +7517,19 @@
     "name": "Gligar",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7647,19 +7647,19 @@
     "name": "Qwilfish",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -7668,13 +7668,13 @@
         "name": "Hisui",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8143,19 +8143,19 @@
     "name": "Remoraid",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8212,19 +8212,19 @@
     "name": "Mantine",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8372,19 +8372,19 @@
     "name": "Kingdra",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8464,19 +8464,19 @@
     "name": "Porygon2",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8915,19 +8915,19 @@
     "name": "Ho_Oh",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8938,19 +8938,19 @@
     "name": "Celebi",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -8959,13 +8959,13 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -9457,25 +9457,25 @@
     "name": "Beautifly",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -9484,13 +9484,13 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -9526,19 +9526,19 @@
     "name": "Dustox",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -9802,19 +9802,19 @@
     "name": "Wingull",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -9825,19 +9825,19 @@
     "name": "Pelipper",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -9955,19 +9955,19 @@
     "name": "Masquerain",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -10116,19 +10116,19 @@
     "name": "Ninjask",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -10139,19 +10139,19 @@
     "name": "Shedinja",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -10559,25 +10559,25 @@
     "name": "Meditite",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -10586,13 +10586,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -10949,19 +10949,19 @@
     "name": "Carvanha",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -10972,19 +10972,19 @@
     "name": "Sharpedo",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -10993,13 +10993,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11010,19 +11010,19 @@
     "name": "Wailmer",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11033,19 +11033,19 @@
     "name": "Wailord",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11186,19 +11186,19 @@
     "name": "Spoink",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11301,19 +11301,19 @@
     "name": "Flygon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11393,19 +11393,19 @@
     "name": "Swablu",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11500,19 +11500,19 @@
     "name": "Lunatone",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11523,19 +11523,19 @@
     "name": "Solrock",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11546,19 +11546,19 @@
     "name": "Barboach",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11569,19 +11569,19 @@
     "name": "Whiscash",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11638,19 +11638,19 @@
     "name": "Baltoy",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11776,19 +11776,19 @@
     "name": "Feebas",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11845,19 +11845,19 @@
     "name": "Castform",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11866,13 +11866,13 @@
         "name": "Sunny",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11881,13 +11881,13 @@
         "name": "Rainy",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11896,13 +11896,13 @@
         "name": "Snowy",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -11951,19 +11951,19 @@
     "name": "Shuppet",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12012,19 +12012,19 @@
     "name": "Duskull",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12188,19 +12188,19 @@
     "name": "Glalie",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12209,13 +12209,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12318,19 +12318,19 @@
     "name": "Huntail",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12341,19 +12341,19 @@
     "name": "Gorebyss",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12364,25 +12364,25 @@
     "name": "Relicanth",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -12391,13 +12391,13 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -12410,19 +12410,19 @@
     "name": "Luvdisc",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12517,19 +12517,19 @@
     "name": "Beldum",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12540,19 +12540,19 @@
     "name": "Metang",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12670,19 +12670,19 @@
     "name": "Latias",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12691,13 +12691,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12706,13 +12706,13 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12723,19 +12723,19 @@
     "name": "Latios",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12744,13 +12744,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12837,19 +12837,19 @@
     "name": "Rayquaza",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12858,13 +12858,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12875,19 +12875,19 @@
     "name": "Jirachi",
     "portrait_dest": -1,
     "sprite_dest": -2,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12896,13 +12896,13 @@
         "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": 0,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12913,19 +12913,19 @@
     "name": "Deoxys",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12934,13 +12934,13 @@
         "name": "Attack",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12949,13 +12949,13 @@
         "name": "Defense",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -12964,13 +12964,13 @@
         "name": "Speed",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14006,19 +14006,19 @@
     "name": "Mothim",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14029,25 +14029,25 @@
     "name": "Combee",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0000": {
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -14056,13 +14056,13 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -14075,19 +14075,19 @@
     "name": "Vespiquen",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14449,19 +14449,19 @@
     "name": "Drifloon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14470,13 +14470,13 @@
         "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14487,19 +14487,19 @@
     "name": "Drifblim",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14571,19 +14571,19 @@
     "name": "Mismagius",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14747,19 +14747,19 @@
     "name": "Bronzor",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -14770,19 +14770,19 @@
     "name": "Bronzong",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -15458,19 +15458,19 @@
     "name": "Carnivine",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -15481,25 +15481,25 @@
     "name": "Finneon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -15508,13 +15508,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -15527,25 +15527,25 @@
     "name": "Lumineon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -15554,13 +15554,13 @@
             "name": "",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {
               "0002": {
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
-                "idle": false,
+                "idle": true,
                 "subgroups": {}
               }
             }
@@ -15573,19 +15573,19 @@
     "name": "Mantyke",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -15749,19 +15749,19 @@
     "name": "Magnezone",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -15933,19 +15933,19 @@
     "name": "Togekiss",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -15956,19 +15956,19 @@
     "name": "Yanmega",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16055,19 +16055,19 @@
     "name": "Gliscor",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16269,19 +16269,19 @@
     "name": "Rotom",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16699,13 +16699,13 @@
         "name": "Origin",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16716,19 +16716,19 @@
     "name": "Cresselia",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16785,19 +16785,19 @@
     "name": "Darkrai",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16806,13 +16806,13 @@
         "name": "Beta",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -16821,13 +16821,13 @@
         "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -17996,19 +17996,19 @@
     "name": "Woobat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -18019,19 +18019,19 @@
     "name": "Swoobat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -19471,19 +19471,19 @@
     "name": "Vanillite",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -19492,13 +19492,13 @@
         "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -19509,19 +19509,19 @@
     "name": "Vanillish",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -19532,19 +19532,19 @@
     "name": "Vanilluxe",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -20917,19 +20917,19 @@
     "name": "Volcarona",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21009,19 +21009,19 @@
     "name": "Tornadus",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21047,19 +21047,19 @@
     "name": "Thundurus",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21131,19 +21131,19 @@
     "name": "Landorus",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21809,19 +21809,19 @@
     "name": "Vivillon",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21830,13 +21830,13 @@
         "name": "Archipelago",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21845,13 +21845,13 @@
         "name": "Continental",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21860,13 +21860,13 @@
         "name": "Elegant",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21875,13 +21875,13 @@
         "name": "Fancy",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21890,13 +21890,13 @@
         "name": "Garden",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21905,13 +21905,13 @@
         "name": "Jungle",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21920,13 +21920,13 @@
         "name": "Marine",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21935,13 +21935,13 @@
         "name": "Modern",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21950,13 +21950,13 @@
         "name": "Monsoon",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21965,13 +21965,13 @@
         "name": "Ocean",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21980,13 +21980,13 @@
         "name": "Pokeball",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -21995,13 +21995,13 @@
         "name": "Polar",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22010,13 +22010,13 @@
         "name": "River",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22025,13 +22025,13 @@
         "name": "Sandstorm",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22040,13 +22040,13 @@
         "name": "Sun",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22055,13 +22055,13 @@
         "name": "Tundra",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22070,13 +22070,13 @@
         "name": "Savannah",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22085,13 +22085,13 @@
         "name": "High_Plains",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22100,13 +22100,13 @@
         "name": "Icy_Snow",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22186,19 +22186,19 @@
     "name": "Flabebe",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22207,13 +22207,13 @@
         "name": "Orange",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22222,13 +22222,13 @@
         "name": "Yellow",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22237,13 +22237,13 @@
         "name": "Blue",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22252,13 +22252,13 @@
         "name": "White",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22269,19 +22269,19 @@
     "name": "Floette",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22290,13 +22290,13 @@
         "name": "Orange",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22305,13 +22305,13 @@
         "name": "Yellow",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22320,13 +22320,13 @@
         "name": "Blue",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22335,13 +22335,13 @@
         "name": "White",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -22350,13 +22350,13 @@
         "name": "Eternal",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23488,19 +23488,19 @@
     "name": "Phantump",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23534,19 +23534,19 @@
     "name": "Pumpkaboo",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23555,13 +23555,13 @@
         "name": "Small",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23570,13 +23570,13 @@
         "name": "Large",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23585,13 +23585,13 @@
         "name": "Super",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23731,19 +23731,19 @@
     "name": "Noibat",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23754,19 +23754,19 @@
     "name": "Noivern",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23815,19 +23815,19 @@
     "name": "Yveltal",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23921,19 +23921,19 @@
     "name": "Diancie",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -23942,13 +23942,13 @@
         "name": "Mega",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -24585,19 +24585,19 @@
     "name": "Cutiefly",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -24608,19 +24608,19 @@
     "name": "Ribombee",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -26178,19 +26178,19 @@
     "name": "Nihilego",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -27637,19 +27637,19 @@
     "name": "Arrokuda",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -29774,19 +29774,19 @@
     "name": "Eternatus",
     "portrait_dest": -1,
     "sprite_dest": -1,
-    "idle": false,
+    "idle": true,
     "subgroups": {
       "0000": {
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
@@ -29795,13 +29795,13 @@
         "name": "Eternamax",
         "portrait_dest": -1,
         "sprite_dest": -1,
-        "idle": false,
+        "idle": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "idle": false,
+            "idle": true,
             "subgroups": {}
           }
         }
