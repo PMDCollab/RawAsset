@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
 <AnimData>
+	<CutsceneIdle/>
 	<ShadowSize>2</ShadowSize>
 	<Anims>
 		<Anim>

@@ -1,8 +1,2 @@
-*Missingno_ Koraidon
-*Missingno_ Miraidon
-*Missingno_ Pawmi
-*Missingno_ Lechonk
-*Missingno_ Smoliv
-*Paras Altcolor
-*Scizor Altcolor
-*Vanillite Alternate
+*Ralts Alternate
+Gardevoir Starter
