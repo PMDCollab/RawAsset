@@ -6,7 +6,7 @@
       <Name>Walk</Name>
       <Index>0</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
@@ -107,7 +107,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
