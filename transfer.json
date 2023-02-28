@@ -112,7 +112,7 @@
       },
       "0007": {
         "idle": false,
-        "name": "Sprigatito",
+        "name": "Mikon",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -1060,6 +1060,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -1080,6 +1095,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -1691,6 +1721,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -1767,6 +1827,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Mama_Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -1811,6 +1901,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -2172,6 +2277,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -2207,6 +2327,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -2336,6 +2471,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -2637,6 +2787,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -2657,6 +2822,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -2980,6 +3160,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3015,6 +3210,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Galar_Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3167,6 +3377,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3559,6 +3784,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3579,6 +3819,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3635,6 +3890,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3678,6 +3948,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3948,6 +4233,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -4090,6 +4390,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -4659,6 +4974,51 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Paldea",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Paldea_Blaze",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Paldea_Aqua",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -4954,6 +5314,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -5320,6 +5695,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -5750,6 +6140,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6110,6 +6515,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6225,6 +6645,21 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6332,6 +6767,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6355,6 +6805,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6375,6 +6840,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -6470,6 +6950,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Beta",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6493,6 +6988,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6513,6 +7023,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -6608,6 +7133,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6689,6 +7229,21 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Paldea",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
             "subgroups": {}
           }
         }
@@ -7395,6 +7950,44 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -7507,6 +8100,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -7937,6 +8545,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -8003,6 +8626,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -8182,6 +8820,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -8248,6 +8901,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -8541,6 +9209,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -8622,6 +9305,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -8870,6 +9568,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9027,6 +9740,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -9588,6 +10316,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9632,6 +10375,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -9749,6 +10507,21 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9838,6 +10611,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10231,6 +11019,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10335,6 +11138,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10445,6 +11263,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10480,6 +11313,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10579,6 +11427,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10687,6 +11550,44 @@
             "portrait_dest": -1,
             "sprite_dest": -1,
             "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -11209,6 +12110,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -11275,6 +12191,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -11414,6 +12345,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -11615,6 +12561,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -11635,6 +12596,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -11796,6 +12772,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -12035,6 +13026,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12127,6 +13133,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12165,6 +13186,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12185,6 +13221,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -12746,6 +13797,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12781,6 +13847,36 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -12860,6 +13956,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12930,6 +14041,36 @@
         "subgroups": {
           "0001": {
             "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter_Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
@@ -13390,6 +14531,44 @@
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
                 "subgroups": {}
               }
             }
@@ -14121,6 +15300,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Beta",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14594,6 +15803,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14770,6 +15994,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14908,6 +16147,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14928,6 +16182,36 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -15366,6 +16650,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -15386,6 +16685,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -15433,6 +16747,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -15772,6 +17101,21 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -15792,6 +17136,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -16269,6 +17628,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -16496,6 +17870,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -16602,6 +17991,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0005": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -16637,6 +18041,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -16690,6 +18109,21 @@
       "0001": {
         "idle": false,
         "name": "Beta",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -16762,6 +18196,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -16805,6 +18254,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -16861,6 +18325,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -16902,7 +18381,22 @@
       },
       "0002": {
         "idle": false,
-        "name": "Sky_Alternate",
+        "name": "Sky_Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -17268,6 +18762,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17602,6 +19111,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -21131,6 +22655,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -21849,6 +23388,306 @@
         "subgroups": {
           "0001": {
             "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Icy_Snow",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Polar",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Tundra",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Continental",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0005": {
+        "idle": false,
+        "name": "Garden",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0006": {
+        "idle": false,
+        "name": "Elegant",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0007": {
+        "idle": false,
+        "name": "Meadow",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0008": {
+        "idle": false,
+        "name": "Modern",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0009": {
+        "idle": false,
+        "name": "Marine",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0010": {
+        "idle": false,
+        "name": "Archipelago",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0011": {
+        "idle": false,
+        "name": "High_Plains",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0012": {
+        "idle": false,
+        "name": "Sandstorm",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0013": {
+        "idle": false,
+        "name": "River",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0014": {
+        "idle": false,
+        "name": "Monsoon",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0015": {
+        "idle": false,
+        "name": "Savannah",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0016": {
+        "idle": false,
+        "name": "Sun",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0017": {
+        "idle": false,
+        "name": "Ocean",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0018": {
+        "idle": false,
+        "name": "Jungle",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0019": {
+        "idle": false,
+        "name": "Fancy",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0020": {
+        "idle": false,
+        "name": "Pokeball",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
@@ -23032,6 +24871,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -25609,6 +27463,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Busted",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -26221,6 +28090,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -26333,6 +28217,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -27711,6 +29610,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -28985,6 +30899,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Brass",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Trooper",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -30012,6 +31956,2563 @@
       "0001": {
         "idle": false,
         "name": "Therian",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0906": {
+    "idle": false,
+    "name": "Sprigatito",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0907": {
+    "idle": false,
+    "name": "Floragato",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0908": {
+    "idle": false,
+    "name": "Meowscarada",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0909": {
+    "idle": false,
+    "name": "Fuecoco",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0910": {
+    "idle": false,
+    "name": "Crocalor",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0911": {
+    "idle": false,
+    "name": "Skeledirge",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0912": {
+    "idle": false,
+    "name": "Quaxly",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0913": {
+    "idle": false,
+    "name": "Quaxwell",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0914": {
+    "idle": false,
+    "name": "Quaquaval",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0915": {
+    "idle": false,
+    "name": "Lechonk",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0916": {
+    "idle": false,
+    "name": "Oinkologne",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "0917": {
+    "idle": false,
+    "name": "Tarountula",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0918": {
+    "idle": false,
+    "name": "Spidops",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0919": {
+    "idle": false,
+    "name": "Nymble",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0920": {
+    "idle": false,
+    "name": "Lokix",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0921": {
+    "idle": false,
+    "name": "Pawmi",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0922": {
+    "idle": false,
+    "name": "Pawmo",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0923": {
+    "idle": false,
+    "name": "Pawmot",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0924": {
+    "idle": false,
+    "name": "Tandemaus",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0925": {
+    "idle": false,
+    "name": "Maushold",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Four",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0926": {
+    "idle": false,
+    "name": "Fidough",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0927": {
+    "idle": false,
+    "name": "Dachsbun",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0928": {
+    "idle": false,
+    "name": "Smoliv",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0929": {
+    "idle": false,
+    "name": "Dolliv",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0930": {
+    "idle": false,
+    "name": "Arboliva",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0931": {
+    "idle": false,
+    "name": "Squawkabilly",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Blue",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Yellow",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "White",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0932": {
+    "idle": false,
+    "name": "Nacli",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0933": {
+    "idle": false,
+    "name": "Naclstack",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0934": {
+    "idle": false,
+    "name": "Garganacl",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0935": {
+    "idle": false,
+    "name": "Charcadet",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0936": {
+    "idle": false,
+    "name": "Armarouge",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0937": {
+    "idle": false,
+    "name": "Ceruledge",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0938": {
+    "idle": false,
+    "name": "Tadbulb",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0939": {
+    "idle": false,
+    "name": "Bellibolt",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0940": {
+    "idle": false,
+    "name": "Wattrel",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0941": {
+    "idle": false,
+    "name": "Kilowattrel",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0942": {
+    "idle": false,
+    "name": "Maschiff",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0943": {
+    "idle": false,
+    "name": "Mabosstiff",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0944": {
+    "idle": false,
+    "name": "Shroodle",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0945": {
+    "idle": false,
+    "name": "Grafaiai",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0946": {
+    "idle": false,
+    "name": "Bramblin",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0947": {
+    "idle": false,
+    "name": "Brambleghast",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0948": {
+    "idle": false,
+    "name": "Toedscool",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0949": {
+    "idle": false,
+    "name": "Toedscruel",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0950": {
+    "idle": false,
+    "name": "Klawf",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0951": {
+    "idle": false,
+    "name": "Capsakid",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0952": {
+    "idle": false,
+    "name": "Scovillain",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0953": {
+    "idle": false,
+    "name": "Rellor",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0954": {
+    "idle": false,
+    "name": "Rabsca",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0955": {
+    "idle": false,
+    "name": "Flittle",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0956": {
+    "idle": false,
+    "name": "Espathra",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0957": {
+    "idle": false,
+    "name": "Tinkatink",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0958": {
+    "idle": false,
+    "name": "Tinkatuff",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0959": {
+    "idle": false,
+    "name": "Tinkaton",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0960": {
+    "idle": false,
+    "name": "Wiglett",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0961": {
+    "idle": false,
+    "name": "Wugtrio",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0962": {
+    "idle": false,
+    "name": "Bombirdier",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0963": {
+    "idle": false,
+    "name": "Finizen",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0964": {
+    "idle": false,
+    "name": "Palafin",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Hero",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0965": {
+    "idle": false,
+    "name": "Varoom",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0966": {
+    "idle": false,
+    "name": "Revavroom",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0967": {
+    "idle": false,
+    "name": "Cyclizar",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0968": {
+    "idle": false,
+    "name": "Orthworm",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0969": {
+    "idle": false,
+    "name": "Glimmet",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0970": {
+    "idle": false,
+    "name": "Glimmora",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0971": {
+    "idle": false,
+    "name": "Greavard",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0972": {
+    "idle": false,
+    "name": "Houndstone",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0973": {
+    "idle": false,
+    "name": "Flamigo",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0974": {
+    "idle": false,
+    "name": "Cetoddle",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0975": {
+    "idle": false,
+    "name": "Cetitan",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0976": {
+    "idle": false,
+    "name": "Veluza",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0977": {
+    "idle": false,
+    "name": "Dondozo",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0978": {
+    "idle": false,
+    "name": "Tatsugiri",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Stretchy",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Droopy",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0979": {
+    "idle": false,
+    "name": "Annihilape",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0980": {
+    "idle": false,
+    "name": "Clodsire",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0981": {
+    "idle": false,
+    "name": "Farigiraf",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0982": {
+    "idle": false,
+    "name": "Dudunsparce",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Three",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0983": {
+    "idle": false,
+    "name": "Kingambit",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0984": {
+    "idle": false,
+    "name": "Great_Tusk",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0985": {
+    "idle": false,
+    "name": "Scream_Tail",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0986": {
+    "idle": false,
+    "name": "Brute_Bonnet",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0987": {
+    "idle": false,
+    "name": "Flutter_Mane",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0988": {
+    "idle": false,
+    "name": "Slither_Wing",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0989": {
+    "idle": false,
+    "name": "Sandy_Shocks",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0990": {
+    "idle": false,
+    "name": "Iron_Treads",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0991": {
+    "idle": false,
+    "name": "Iron_Bundle",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0992": {
+    "idle": false,
+    "name": "Iron_Hands",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0993": {
+    "idle": false,
+    "name": "Iron_Jugulis",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0994": {
+    "idle": false,
+    "name": "Iron_Moth",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0995": {
+    "idle": false,
+    "name": "Iron_Thorns",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0996": {
+    "idle": false,
+    "name": "Frigibax",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0997": {
+    "idle": false,
+    "name": "Arctibax",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0998": {
+    "idle": false,
+    "name": "Baxcalibur",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0999": {
+    "idle": false,
+    "name": "Gimmighoul",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Roaming",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1000": {
+    "idle": false,
+    "name": "Gholdengo",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1001": {
+    "idle": false,
+    "name": "Wo_Chien",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1002": {
+    "idle": false,
+    "name": "Chien_Pao",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1003": {
+    "idle": false,
+    "name": "Ting_Lu",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1004": {
+    "idle": false,
+    "name": "Chi_Yu",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1005": {
+    "idle": false,
+    "name": "Roaring_Moon",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1006": {
+    "idle": false,
+    "name": "Iron_Valiant",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1007": {
+    "idle": false,
+    "name": "Koraidon",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Apex",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "1008": {
+    "idle": false,
+    "name": "Miraidon",
+    "portrait_dest": -1,
+    "sprite_dest": -1,
+    "subgroups": {
+      "0000": {
+        "idle": false,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Ultimate",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {

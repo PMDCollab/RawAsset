@@ -1,2 +1,239 @@
-*Ralts Alternate
-Gardevoir Starter
+*Ekans Starter
+*Arbok Starter
+*Ninetales Starter
+*Ninetales Alternate
+*Wigglytuff Starter
+*Wigglytuff Mama_Starter
+*Zubat Starter
+*Diglett Starter
+*Dugtrio Starter
+*Psyduck Starter
+*Alakazam Starter
+*Machop Starter
+*Golem Starter
+*Ponyta Galar_Alternate
+*Magnemite Starter
+*Gastly Altcolor
+*Haunter Starter
+*Gengar Starter
+*Drowzee Starter
+*Cubone Starter
+*Koffing Starter
+Tauros Paldea
+Tauros Paldea_Blaze
+Tauros Paldea_Aqua
+*Flareon Altcolor
+*Dragonair Altcolor
+*Sentret Altcolor
+*Igglybuff Starter
+*Xatu Starter
+*Bellossom Starter
+*Marill Starter
+*Azumarill Alternate
+*Hoppip Beta
+*Skiploom Altcolor
+*Jumpluff Starter
+*Sunflora Starter
+Wooper Paldea
+*Wobbuffet Starter
+*Dunsparce Starter
+*Sneasel Starter
+*Slugma Starter
+*Octillery Starter
+*Skarmory Starter
+*Smeargle Alternate
+*Smoochum Starter
+*Tyranitar Starter
+*Grovyle Starter
+*Lombre Starter
+*Ludicolo Starter
+*Shiftry Starter
+*Pelipper Starter
+*Loudred Starter
+*Azurill Starter
+*Sableye Starter
+*Mawile Starter
+*Aggron Starter
+*Medicham Starter
+*Torkoal Starter
+*Spinda Starter
+*Cacturne Starter
+*Whiscash Altcolor
+*Corphish Starter
+*Armaldo Starter
+*Banette Starter
+*Chimecho Starter
+*Absol Starter
+*Wynaut Starter
+*Latias Starter
+*Latios Starter
+*Latios Alternate
+*Groudon Starter
+*Jirachi Starter
+*Jirachi Starter_Altcolor
+*Bidoof Starter
+*Vespiquen Alternate
+*Vespiquen Beta
+*Lopunny Starter
+*Skuntank Starter
+*Chatot Starter
+*Spiritomb Starter
+*Spiritomb Altcolor
+*Skorupi Starter
+*Drapion Starter
+*Croagunk Starter
+*Weavile Starter
+*Magnezone Starter
+*Dusknoir Starter
+*Mesprit Starter
+*Dialga Starter
+*Palkia Starter
+*Regigigas Starter
+*Cresselia Starter
+*Manaphy Starter
+*Darkrai Starter
+*Shaymin Starter
+*Snivy Alternate
+*Purrloin Alternate
+*Reshiram Alternate
+Vivillon Icy_Snow
+Vivillon Polar
+Vivillon Tundra
+Vivillon Continental
+Vivillon Garden
+Vivillon Elegant
+Vivillon Meadow
+Vivillon Modern
+Vivillon Marine
+Vivillon Archipelago
+Vivillon High_Plains
+Vivillon Sandstorm
+Vivillon River
+Vivillon Monsoon
+Vivillon Savannah
+Vivillon Sun
+Vivillon Ocean
+Vivillon Jungle
+Vivillon Fancy
+Vivillon Pokeball
+*Sylveon Alternate
+Mimikyu Busted
+*Marshadow Alternate
+*Zeraora Alternate
+*Hattrem Alternate
+Falinks Brass
+Falinks Trooper
+Sprigatito
+Floragato
+Meowscarada
+Fuecoco
+Crocalor
+Skeledirge
+Quaxly
+Quaxwell
+Quaquaval
+Lechonk
+Oinkologne
+Tarountula
+Spidops
+Nymble
+Lokix
+Pawmi
+Pawmo
+Pawmot
+Tandemaus
+Maushold
+Maushold Four
+Fidough
+Dachsbun
+Smoliv
+Dolliv
+Arboliva
+Squawkabilly
+Squawkabilly Blue
+Squawkabilly Yellow
+Squawkabilly White
+Nacli
+Naclstack
+Garganacl
+Charcadet
+Armarouge
+Ceruledge
+Tadbulb
+Bellibolt
+Wattrel
+Kilowattrel
+Maschiff
+Mabosstiff
+Shroodle
+Grafaiai
+Bramblin
+Brambleghast
+Toedscool
+Toedscruel
+Klawf
+Capsakid
+Scovillain
+Rellor
+Rabsca
+Flittle
+Espathra
+Tinkatink
+Tinkatuff
+Tinkaton
+Wiglett
+Wugtrio
+Bombirdier
+Finizen
+Palafin
+Palafin Hero
+Varoom
+Revavroom
+Cyclizar
+Orthworm
+Glimmet
+Glimmora
+Greavard
+Houndstone
+Flamigo
+Cetoddle
+Cetitan
+Veluza
+Dondozo
+Tatsugiri
+Tatsugiri Stretchy
+Tatsugiri Droopy
+Annihilape
+Clodsire
+Farigiraf
+Dudunsparce
+Dudunsparce Three
+Kingambit
+Great_Tusk
+Scream_Tail
+Brute_Bonnet
+Flutter_Mane
+Slither_Wing
+Sandy_Shocks
+Iron_Treads
+Iron_Bundle
+Iron_Hands
+Iron_Jugulis
+Iron_Moth
+Iron_Thorns
+Frigibax
+Arctibax
+Baxcalibur
+Gimmighoul
+Gimmighoul Roaming
+Gholdengo
+Wo_Chien
+Chien_Pao
+Ting_Lu
+Chi_Yu
+Roaring_Moon
+Iron_Valiant
+Koraidon
+Koraidon Apex
+Miraidon
+Miraidon Ultimate
