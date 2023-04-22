@@ -9,7 +9,7 @@
   "0001": {
     "name": "Bulbasaur",
     "portrait_dest": -1,
-    "sprite_dest": -2,
+    "sprite_dest": -1,
     "idle": false,
     "subgroups": {}
   },
