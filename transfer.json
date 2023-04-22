@@ -2730,19 +2730,19 @@
     }
   },
   "0064": {
-    "idle": false,
+    "idle": true,
     "name": "Kadabra",
     "portrait_dest": -1,
     "sprite_dest": -1,
     "subgroups": {
       "0000": {
-        "idle": false,
+        "idle": true,
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
           "0001": {
-            "idle": false,
+            "idle": true,
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
