@@ -127,7 +127,7 @@
       },
       "0008": {
         "idle": false,
-        "name": "Ogrepon",
+        "name": "Ogerpon",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -586,6 +586,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -641,6 +656,21 @@
         }
       },
       "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
         "idle": false,
         "name": "Altcolor",
         "portrait_dest": -2,
@@ -759,6 +789,44 @@
             "portrait_dest": -1,
             "sprite_dest": -1,
             "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -990,6 +1058,44 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -1048,6 +1154,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -1413,6 +1534,44 @@
             "portrait_dest": -1,
             "sprite_dest": -1,
             "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -2007,6 +2166,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -2109,7 +2283,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Starter_Altcolor",
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -2118,7 +2292,30 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -3248,6 +3445,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3268,6 +3480,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3294,6 +3521,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3317,6 +3559,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -3337,6 +3594,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -3741,6 +4013,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Mega_Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -4122,6 +4409,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -4157,6 +4459,36 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -4806,6 +5138,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -4887,6 +5234,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -5276,7 +5638,68 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -5299,7 +5722,68 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "subgroups": {}
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -5436,6 +5920,21 @@
       "0001": {
         "idle": false,
         "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -5812,6 +6311,74 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Mega_Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -5970,6 +6537,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -6300,6 +6882,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6338,6 +6935,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6373,6 +6985,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -6642,6 +7269,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6726,6 +7368,44 @@
             }
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -6749,6 +7429,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -6769,6 +7464,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -6807,6 +7517,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -7314,6 +8039,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -7402,6 +8142,21 @@
       "0001": {
         "idle": false,
         "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -7794,6 +8549,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -7852,7 +8622,30 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -8057,7 +8850,30 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -8220,6 +9036,44 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -8240,7 +9094,68 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "subgroups": {}
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0001": {
+                "idle": false,
+                "name": "Male",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -8369,6 +9284,44 @@
       "0001": {
         "idle": false,
         "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -9189,6 +10142,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9387,6 +10355,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9562,6 +10545,44 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -9649,7 +10670,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Altcolor",
+        "name": "Starter",
         "portrait_dest": -2,
         "sprite_dest": 0,
         "subgroups": {
@@ -9664,7 +10685,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Starter",
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -9696,6 +10717,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -9775,6 +10811,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -9795,6 +10846,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -9963,7 +11029,30 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -1,
+                "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
           }
         }
       },
@@ -9993,7 +11082,30 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       },
@@ -10300,6 +11412,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10392,6 +11519,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10465,6 +11607,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10674,6 +11831,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10697,6 +11869,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10717,6 +11904,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -10872,6 +12074,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10927,6 +12144,21 @@
         "subgroups": {
           "0001": {
             "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
@@ -11200,6 +12432,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -11220,6 +12467,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -11258,6 +12520,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -11342,6 +12619,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -11658,6 +12950,44 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -11722,6 +13052,44 @@
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
                 "subgroups": {}
               }
             }
@@ -12277,6 +13645,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12376,6 +13759,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12460,6 +13858,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12480,6 +13893,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -12612,6 +14040,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12670,6 +14113,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -13001,6 +14459,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -13021,6 +14509,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -13050,7 +14553,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Alternate",
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -13215,6 +14718,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Mega_Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -13235,6 +14768,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -13406,6 +14954,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -13433,6 +14996,21 @@
       "0001": {
         "idle": false,
         "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -13788,6 +15366,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14048,6 +15641,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14098,6 +15706,21 @@
       "0001": {
         "idle": false,
         "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -14284,6 +15907,36 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Purple_Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14375,6 +16028,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14395,6 +16063,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -14441,6 +16124,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -14596,6 +16294,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -14715,6 +16428,36 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -14876,6 +16619,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -15058,6 +16816,21 @@
       "0002": {
         "idle": false,
         "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Mega_Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -15577,6 +17350,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -15620,6 +17408,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -17005,6 +18808,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17188,6 +19006,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17287,6 +19120,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17345,6 +19193,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -17478,6 +19341,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17524,6 +19402,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17547,6 +19440,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -17567,6 +19475,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -18007,7 +19930,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Altcolor",
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -18106,6 +20029,44 @@
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
                 "subgroups": {}
               }
             }
@@ -18245,7 +20206,68 @@
             "name": "Shiny",
             "portrait_dest": -2,
             "sprite_dest": -2,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -18289,6 +20311,44 @@
                 "name": "Female",
                 "portrait_dest": -1,
                 "sprite_dest": -1,
+                "subgroups": {}
+              }
+            }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
                 "subgroups": {}
               }
             }
@@ -18476,6 +20536,21 @@
                 "subgroups": {}
               }
             }
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
           }
         }
       }
@@ -18768,6 +20843,44 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "idle": false,
+            "name": "",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {
+              "0002": {
+                "idle": false,
+                "name": "Female",
+                "portrait_dest": -2,
+                "sprite_dest": -2,
+                "subgroups": {}
+              }
+            }
+          }
+        }
       }
     }
   },
@@ -18814,6 +20927,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -18834,6 +20962,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -19005,6 +21148,21 @@
             }
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -19108,6 +21266,21 @@
       "0001": {
         "idle": false,
         "name": "Beta",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -19437,6 +21610,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Starter",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -19702,6 +21890,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -19910,7 +22113,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Sky_Starter",
+        "name": "Starter",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -19925,7 +22128,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Starter",
+        "name": "Sky_Starter",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -21628,6 +23831,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -25863,7 +28081,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Female",
+        "name": "Female_Alternate",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -27932,6 +30150,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -30426,6 +32659,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -35034,6 +37282,81 @@
         "name": "",
         "portrait_dest": -2,
         "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Segin",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Schedar",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Navi",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": false,
+        "name": "Ruchbah",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0005": {
+        "idle": false,
+        "name": "Caph",
+        "portrait_dest": -1,
+        "sprite_dest": -1,
         "subgroups": {
           "0001": {
             "idle": false,
