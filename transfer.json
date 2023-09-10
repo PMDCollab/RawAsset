@@ -31031,8 +31031,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 7,
-            "sprite_dest": 7,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31046,8 +31046,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 8,
-            "sprite_dest": 8,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31061,8 +31061,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 9,
-            "sprite_dest": 9,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31076,8 +31076,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 10,
-            "sprite_dest": 10,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31091,8 +31091,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 11,
-            "sprite_dest": 11,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31106,8 +31106,8 @@
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 12,
-            "sprite_dest": 12,
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31117,21 +31117,6 @@
         "name": "Violet",
         "portrait_dest": 13,
         "sprite_dest": 13,
-        "subgroups": {
-          "0001": {
-            "idle": false,
-            "name": "Shiny",
-            "portrait_dest": 13,
-            "sprite_dest": 13,
-            "subgroups": {}
-          }
-        }
-      },
-      "0008": {
-        "idle": false,
-        "name": "Alternate_Shiny",
-        "portrait_dest": -2,
-        "sprite_dest": -2,
         "subgroups": {
           "0001": {
             "idle": false,
