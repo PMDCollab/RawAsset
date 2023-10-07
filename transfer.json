@@ -1778,7 +1778,7 @@
   "0033": {
     "idle": false,
     "name": "Nidorino",
-    "portrait_dest": -1,
+    "portrait_dest": -2,
     "sprite_dest": -2,
     "subgroups": {
       "0000": {
@@ -1799,7 +1799,7 @@
       "0001": {
         "idle": false,
         "name": "Altcolor",
-        "portrait_dest": -2,
+        "portrait_dest": 0,
         "sprite_dest": 0,
         "subgroups": {
           "0001": {
