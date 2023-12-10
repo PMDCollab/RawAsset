@@ -27370,7 +27370,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Burn",
+        "name": "Douse",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -27385,7 +27385,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Chill",
+        "name": "Shock",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -27400,7 +27400,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Douse",
+        "name": "Burn",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -27415,7 +27415,7 @@
       },
       "0004": {
         "idle": false,
-        "name": "Shock",
+        "name": "Chill",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
