@@ -28243,7 +28243,7 @@
       },
       "0001": {
         "idle": true,
-        "name": "Orange",
+        "name": "Yellow",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -28258,7 +28258,7 @@
       },
       "0002": {
         "idle": true,
-        "name": "Yellow",
+        "name": "Orange",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -28326,7 +28326,7 @@
       },
       "0001": {
         "idle": true,
-        "name": "Orange",
+        "name": "Yellow",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -28341,7 +28341,7 @@
       },
       "0002": {
         "idle": true,
-        "name": "Yellow",
+        "name": "Orange",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -28424,7 +28424,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Orange",
+        "name": "Yellow",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -28439,7 +28439,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Yellow",
+        "name": "Orange",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
