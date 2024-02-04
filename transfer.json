@@ -32464,7 +32464,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Ultra",
+        "name": "Dusk_Mane",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -32479,7 +32479,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "Dusk_Mane",
+        "name": "Dawn_Wings",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -32494,7 +32494,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Dawn_Wings",
+        "name": "Ultra",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
