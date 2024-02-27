@@ -1,58 +1,49 @@
-*Ivysaur Altcolor
-*Venusaur Altcolor
-*Weedle Altcolor
-Pikachu Original_Cap
-Pikachu Hoenn_Cap
-Pikachu Sinnoh_Cap
-Pikachu Unova_Cap
-Pikachu Kalos_Cap
-Pikachu Alola_Cap
-Pikachu Partner_Cap
-Pikachu World_Cap
-*Nidorina Altcolor
-*Nidoqueen Alternate
-*Gloom Altcolor
-*Vileplume Altcolor
-*Parasect Altcolor
-*Mankey Altcolor
-*Exeggutor Altcolor
-*Horsea Altcolor
-*Mr_Mime Altcolor
-*Ditto Altcolor
-*Aerodactyl Altcolor
-*Snorlax Altcolor
-*Spinarak Altcolor
-*Sunflora Altcolor
-*Kingdra Altcolor
-*Lugia Altcolor
-*Wingull Alternate
-*Aggron Altcolor
-*Swalot Altcolor
-*Spinda Altcolor
-*Flygon Alternate
-*Cacnea Altcolor
-*Swablu Altcolor
-*Altaria Altcolor
-*Crawdaunt Alternate
-*Castform Altcolor
-*Empoleon Altcolor
-*Cherrim Sunshine_Alternate
-*Gastrodon Altcolor
-*Skuntank Altcolor
-*Giratina Origin_Alternate
-Zarude Dada
-Ursaluna Bloodmoon
-Dipplin
-Poltchageist
-Sinistcha
-Okidogi
-Munkidori
-Fezandipiti
-Ogerpon
-Ogerpon Teal_Mask
-Ogerpon Wellspring
-Ogerpon Wellspring_Mask
-Ogerpon Hearthflame
-Ogerpon Hearthflame_Mask
-Ogerpon Cornerstone
-Ogerpon Cornerstone_Mask
+*Nidoking Altcolor
+*Venomoth Altcolor
+*Primeape Altcolor
+*Onix Altcolor
+*Drowzee Altcolor
+*Kangaskhan Baby
+*Moltres Alternate
+*Mewtwo Shadow
+*Mewtwo Shadow_Mega_X
+*Bayleef Alternate
+*Chinchou Alternate
+*Yanma Altcolor
+*Porygon2 Beta
+*Smoochum Alternate
+*Suicune Altcolor
+*Nincada Altcolor
+*Illumise Altcolor
+*Grumpig Altcolor
+*Corphish Altcolor
+*Absol Altcolor
+*Sealeo Altcolor
+*Huntail Altcolor
+*Salamence Altcolor
+*Kyogre Altcolor
+*Rayquaza Altcolor
+*Deoxys Altcolor
+*Deoxys Attack_Altcolor
+*Deoxys Defense_Altcolor
+*Deoxys Speed_Altcolor
+*Gastrodon East_Altcolor
+*Munchlax Altcolor
+*Mantyke Altcolor
+*Gliscor Altcolor
+*Heatran Altcolor
+*Arceus Alternate
+*Litwick Alternate
+*Tandemaus Shirt
+*Tandemaus Pants
+*Maushold Baby
+Archaludon
+Hydrapple
+Gouging_Fire
+Raging_Bolt
+Iron_Boulder
+Iron_Crown
+Terapagos
+Terapagos Terastal
+Terapagos Stellar
+Pecharunt
