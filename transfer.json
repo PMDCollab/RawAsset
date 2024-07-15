@@ -25702,21 +25702,6 @@
       },
       "0001": {
         "idle": false,
-        "name": "Alternate",
-        "portrait_dest": -2,
-        "sprite_dest": -2,
-        "subgroups": {
-          "0001": {
-            "idle": false,
-            "name": "Shiny",
-            "portrait_dest": -2,
-            "sprite_dest": -2,
-            "subgroups": {}
-          }
-        }
-      },
-      "0002": {
-        "idle": false,
         "name": "Hisui",
         "portrait_dest": -1,
         "sprite_dest": -1,
@@ -25726,6 +25711,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
