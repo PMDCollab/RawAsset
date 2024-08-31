@@ -1,49 +1,32 @@
-*Nidoking Altcolor
-*Venomoth Altcolor
-*Primeape Altcolor
-*Onix Altcolor
-*Drowzee Altcolor
-*Kangaskhan Baby
-*Moltres Alternate
-*Mewtwo Shadow
-*Mewtwo Shadow_Mega_X
-*Bayleef Alternate
-*Chinchou Alternate
-*Yanma Altcolor
-*Porygon2 Beta
-*Smoochum Alternate
-*Suicune Altcolor
-*Nincada Altcolor
-*Illumise Altcolor
-*Grumpig Altcolor
-*Corphish Altcolor
+*Vulpix Alola_Alternate
+*Golduck Altcolor
+*Grimer Starter
+Kangaskhan Altcolor
+*Lapras Alternate
+*Vaporeon Altcolor
+*Sunkern Beta
+*Gligar Starter
+*Snubbull Altcolor
+*Scizor Beta
+Sneasel Temp
+*Sneasel Beta
+*Entei Altcolor
+*Ho_Oh Alternate
+*Blaziken Alternate
+*Sableye Altcolor
+*Wailord Alternate
+*Solrock Altcolor
+*Milotic Alternate
 *Absol Altcolor
-*Sealeo Altcolor
-*Huntail Altcolor
-*Salamence Altcolor
-*Kyogre Altcolor
-*Rayquaza Altcolor
-*Deoxys Altcolor
-*Deoxys Attack_Altcolor
-*Deoxys Defense_Altcolor
-*Deoxys Speed_Altcolor
-*Gastrodon East_Altcolor
-*Munchlax Altcolor
-*Mantyke Altcolor
-*Gliscor Altcolor
-*Heatran Altcolor
-*Arceus Alternate
-*Litwick Alternate
-*Tandemaus Shirt
-*Tandemaus Pants
-*Maushold Baby
-Archaludon
-Hydrapple
-Gouging_Fire
-Raging_Bolt
-Iron_Boulder
-Iron_Crown
-Terapagos
-Terapagos Terastal
-Terapagos Stellar
-Pecharunt
+*Piplup Altcolor
+*Roserade Alternate
+*Cranidos Alternate
+*Rampardos Alternate
+*Bastiodon Altcolor
+Burmy No_Cloak
+*Riolu Alternate
+Yanmega Temp
+*Gallade Altcolor
+*Kyurem Black_Alternate
+*Kyurem White_Alternate
+*Ursaluna Bloodmoon_Alternate
