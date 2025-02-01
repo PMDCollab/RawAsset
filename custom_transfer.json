@@ -13,6 +13,172 @@
     "idle": false,
     "subgroups": {}
   },
+  "0669": {
+    "idle": true,
+    "name": "Flabebe",
+    "portrait_dest": -2,
+    "sprite_dest": -2,
+    "subgroups": {
+      "0000": {
+        "idle": true,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": true,
+        "name": "Yellow",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": true,
+        "name": "Orange",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": true,
+        "name": "Blue",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": true,
+        "name": "White",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
+  "0670": {
+    "idle": true,
+    "name": "Floette",
+    "portrait_dest": -2,
+    "sprite_dest": -2,
+    "subgroups": {
+      "0000": {
+        "idle": true,
+        "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": true,
+        "name": "Yellow",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": true,
+        "name": "Orange",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": true,
+        "name": "Blue",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0004": {
+        "idle": true,
+        "name": "White",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": true,
+            "name": "Shiny",
+            "portrait_dest": -1,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      }
+    }
+  },
   "0774": {
     "idle": false,
     "name": "Minior",
