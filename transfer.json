@@ -172,7 +172,7 @@
       },
       "0011": {
         "idle": false,
-        "name": "Raging_Bolt",
+        "name": "Norowara",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -1167,7 +1167,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Temp",
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -4416,14 +4416,14 @@
       "0001": {
         "idle": false,
         "name": "Galar",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": 2,
+        "sprite_dest": 2,
         "subgroups": {
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": 2,
+            "sprite_dest": 2,
             "subgroups": {}
           }
         }
@@ -4431,14 +4431,14 @@
       "0002": {
         "idle": false,
         "name": "Mega",
-        "portrait_dest": -1,
-        "sprite_dest": -1,
+        "portrait_dest": 1,
+        "sprite_dest": 1,
         "subgroups": {
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": -1,
-            "sprite_dest": -1,
+            "portrait_dest": 1,
+            "sprite_dest": 1,
             "subgroups": {}
           }
         }
@@ -5877,6 +5877,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -7312,6 +7327,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -12692,6 +12722,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -12879,6 +12924,21 @@
       "0001": {
         "idle": false,
         "name": "Cutscene",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0002": {
+        "idle": false,
+        "name": "Altcolor",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -13759,7 +13819,22 @@
       },
       "0002": {
         "idle": false,
-        "name": "Altcolor",
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0003": {
+        "idle": false,
+        "name": "Galar_Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -21799,7 +21874,7 @@
       },
       "0003": {
         "idle": false,
-        "name": "Altcolor",
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {
@@ -26562,6 +26637,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -30119,6 +30209,21 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -30162,6 +30267,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -31540,7 +31660,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Complete",
+        "name": "10",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -31555,7 +31675,7 @@
       },
       "0002": {
         "idle": false,
-        "name": "10",
+        "name": "Complete",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -32984,6 +33104,21 @@
             "name": "Shiny",
             "portrait_dest": -1,
             "sprite_dest": -1,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
             "subgroups": {}
           }
         }
@@ -37588,7 +37723,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Crowned",
+        "name": "Crowned_Sword",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -37626,7 +37761,7 @@
       },
       "0001": {
         "idle": false,
-        "name": "Crowned",
+        "name": "Crowned_Shield",
         "portrait_dest": -1,
         "sprite_dest": -1,
         "subgroups": {
@@ -40761,6 +40896,21 @@
       "0000": {
         "idle": false,
         "name": "",
+        "portrait_dest": -2,
+        "sprite_dest": -2,
+        "subgroups": {
+          "0001": {
+            "idle": false,
+            "name": "Shiny",
+            "portrait_dest": -2,
+            "sprite_dest": -2,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "idle": false,
+        "name": "Alternate",
         "portrait_dest": -2,
         "sprite_dest": -2,
         "subgroups": {

@@ -1,208 +1,28 @@
-~*Missingno_ Ubausagi
-~*Missingno_ Hakogame
-~*Missingno_ Warabbit
-~*Blastoise Cutscene
-+*Rattata Temp
-~*Rattata Temp Shiny
-~*Ekans Cutscene
-~*Arbok Cutscene
-+*Raichu Alternate
-~*Raichu Alternate Shiny
-~*Ninetales Cutscene
-~*Wigglytuff Cutscene
-~*Wigglytuff Mama_Cutscene
-~*Zubat Cutscene
-~*Diglett Cutscene
-~*Dugtrio Cutscene
-~*Psyduck Cutscene
-~*Alakazam Cutscene
-~*Machop Cutscene
-~*Golem Cutscene
-+*Golem Cutscene_Altcolor
-~*Golem Cutscene_Altcolor Shiny
-~*Magnemite Cutscene
-~*Grimer Cutscene
-~*Muk Cutscene
-+*Muk Cutscene_Altcolor
-~*Muk Cutscene_Altcolor Shiny
-~*Haunter Cutscene
-~*Gengar Cutscene
-~*Drowzee Cutscene
-+*Drowzee Cutscene_Altcolor
-~*Drowzee Cutscene_Altcolor Shiny
-~*Cubone Cutscene
-+*Hitmonlee Altcolor
-~*Hitmonlee Altcolor Shiny
-~*Koffing Cutscene
-+*Kangaskhan Altcolor
-~*Kangaskhan Altcolor Shiny
-~*Gyarados Cutscene
-~*Articuno Cutscene
-+*Articuno Altcolor
-~*Articuno Altcolor Shiny
-~*Zapdos Cutscene
-+*Zapdos Altcolor
-~*Zapdos Altcolor Shiny
-~*Moltres Cutscene
-+*Mewtwo Altcolor
-~*Mewtwo Altcolor Shiny
-~*Meganium Alternate2
-+*Noctowl Altcolor
-~*Noctowl Altcolor Shiny
-+*Ariados Altcolor
-~*Ariados Altcolor Shiny
-~*Igglybuff Cutscene
-+*Igglybuff Cutscene_Altcolor
-~*Igglybuff Cutscene_Altcolor Shiny
-~*Xatu Cutscene
-~*Bellossom Cutscene
-~*Marill Cutscene
-~*Jumpluff Cutscene
-~*Sunflora Cutscene
-~*Wobbuffet Cutscene
-~*Dunsparce Cutscene
-~*Gligar Cutscene
-+*Gligar Cutscene_Altcolor
-~*Gligar Cutscene_Altcolor Shiny
-~*Scizor Cutscene
-+*Scizor Cutscene_Altcolor
-~*Scizor Cutscene_Altcolor Shiny
-~*Sneasel Cutscene
-~*Sneasel Alternate
-+*Sneasel Beta
-~*Sneasel Beta Shiny
-~*Slugma Cutscene
-~*Octillery Cutscene
-~*Octillery Cutscene_Altcolor
-~*Skarmory Cutscene
-~*Smoochum Alternate
-~*Raikou Cutscene
-~*Entei Cutscene
-~*Suicune Cutscene
-~*Tyranitar Cutscene
-~*Lugia Cutscene
-~*Celebi Cutscene
-~*Grovyle Cutscene
-+*Grovyle Altcolor
-~*Grovyle Altcolor Shiny
-~*Lombre Cutscene
-~*Ludicolo Cutscene
-+*Ludicolo Cutscene_Altcolor
-~*Ludicolo Cutscene_Altcolor Shiny
-+*Nuzleaf Alternate
-~*Nuzleaf Alternate Shiny
-~*Shiftry Cutscene
-~*Shiftry Cutscene Shiny Female
-~*Shiftry Cutscene  Female
-~*Pelipper Cutscene
-~*Gardevoir Cutscene
-~*Loudred Cutscene
-~*Azurill Cutscene
-~*Sableye Cutscene
-~*Mawile Cutscene
-~*Aggron Cutscene
-+*Aggron Cutscene_Altcolor
-~*Aggron Cutscene_Altcolor Shiny
-~*Medicham Cutscene
-~*Volbeat Cutscene
-~*Illumise Cutscene
-~*Torkoal Cutscene
-~*Spinda Cutscene
-+*Spinda Cutscene_Altcolor
-~*Spinda Cutscene_Altcolor Shiny
-~*Cacturne Cutscene
-~*Corphish Cutscene
-+*Corphish Cutscene_Altcolor
-~*Corphish Cutscene_Altcolor Shiny
-+*Claydol Altcolor
-~*Claydol Altcolor Shiny
-~*Armaldo Cutscene
-~*Kecleon Cutscene
-~*Kecleon Purple_Cutscene
-+*Kecleon Altcolor
-~*Kecleon Altcolor Shiny
-~*Banette Cutscene
-~*Chimecho Cutscene
-~*Absol Cutscene
-~*Wynaut Cutscene
-~*Snorunt Cutscene
-~*Walrein Cutscene
-~*Walrein Alternate
-+*Regirock Altcolor
-~*Regirock Altcolor Shiny
-~*Latias Cutscene
-~*Latios Cutscene
-~*Groudon Cutscene
-~*Jirachi Cutscene
-~*Jirachi Cutscene_Altcolor
-~*Bidoof Cutscene
-+*Bibarel Cutscene
-~*Bibarel Cutscene Shiny
-~*Bibarel Cutscene Shiny Female
-~*Bibarel Cutscene  Female
-~*Lopunny Cutscene
-+*Purugly Altcolor
-~*Purugly Altcolor Shiny
-~*Skuntank Cutscene
-~*Chatot Cutscene
-~*Spiritomb Cutscene
-+*Spiritomb Cutscene_Altcolor
-~*Spiritomb Cutscene_Altcolor Shiny
-~*Skorupi Cutscene
-~*Drapion Cutscene
-~*Croagunk Cutscene
-+*Croagunk Cutscene_Altcolor
-~*Croagunk Cutscene_Altcolor Shiny
-~*Croagunk Cutscene_Altcolor Shiny Female
-~*Croagunk Cutscene_Altcolor  Female
-~*Snover Cutscene
-~*Weavile Cutscene
-~*Magnezone Cutscene
-~*Magmortar Cutscene
-+*Glaceon Alternate
-~*Glaceon Alternate Shiny
-~*Mamoswine Cutscene
-~*Dusknoir Cutscene
-~*Mesprit Cutscene
-~*Azelf Cutscene
-~*Dialga Cutscene
-+*Dialga Cutscene_Altcolor
-~*Dialga Cutscene_Altcolor Shiny
-~*Palkia Cutscene
-~*Regigigas Cutscene
-~*Cresselia Cutscene
-~*Manaphy Cutscene
-~*Darkrai Cutscene
-~*Darkrai Cutscene_Altcolor
-~*Shaymin Cutscene
-~*Shaymin Altcolor
-+*Tepig Beta
-~*Tepig Beta Shiny
-+*Zorua Alternate2
-~*Zorua Alternate2 Shiny
-+*Duosion Temp
-~*Duosion Temp Shiny
-+*Hydreigon Alternate
-~*Hydreigon Alternate Shiny
-~*Reshiram Skytemple
-+*Kyurem White_Skytemple
-~*Kyurem White_Skytemple Shiny
-+*Kyurem Black_Skytemple
-~*Kyurem Black_Skytemple Shiny
-+*Hawlucha Beta
-~*Hawlucha Beta Shiny
-+*Zygarde Complete_Skytemple
-~*Zygarde Complete_Skytemple Shiny
-+*Steenee Alternate
-~*Steenee Alternate Shiny
-~*Indeedee Female_Alternate
-+*Meowscarada Alternate
-~*Meowscarada Alternate Shiny
-~*Koraidon Limited
-~*Miraidon Low_Power
-~Ogerpon Wellspring
-~Ogerpon Hearthflame
-~Ogerpon Cornerstone
-~*Ogerpon Teal_Mask
-~*Ogerpon Wellspring_Mask
-~*Ogerpon Hearthflame_Mask
+~*Missingno_ Norowara
+~*Rattata Alternate
++*Weezing Altcolor
+~*Weezing Altcolor Shiny
++*Porygon Altcolor
+~*Porygon Altcolor Shiny
++*Hitmontop Altcolor
+~*Hitmontop Altcolor Shiny
++*Raikou Altcolor
+~*Raikou Altcolor Shiny
+~*Zigzagoon Alternate
++*Zigzagoon Galar_Alternate
+~*Zigzagoon Galar_Alternate Shiny
+~*Garchomp Alternate
++*Archeops Alternate
+~*Archeops Alternate Shiny
++*Gogoat Alternate
+~*Gogoat Alternate Shiny
++*Pangoro Alternate
+~*Pangoro Alternate Shiny
+~Zygarde 10
+~Zygarde Complete
++*Golisopod Alternate
+~*Golisopod Alternate Shiny
+~Zacian Crowned_Sword
+~Zamazenta Crowned_Shield
++*Roaring_Moon Alternate
+~*Roaring_Moon Alternate Shiny
