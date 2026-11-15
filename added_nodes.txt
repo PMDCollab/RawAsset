@@ -1,28 +1,254 @@
-~*Missingno_ Norowara
-~*Rattata Alternate
-+*Weezing Altcolor
-~*Weezing Altcolor Shiny
-+*Porygon Altcolor
-~*Porygon Altcolor Shiny
-+*Hitmontop Altcolor
-~*Hitmontop Altcolor Shiny
-+*Raikou Altcolor
-~*Raikou Altcolor Shiny
-~*Zigzagoon Alternate
-+*Zigzagoon Galar_Alternate
-~*Zigzagoon Galar_Alternate Shiny
-~*Garchomp Alternate
-+*Archeops Alternate
-~*Archeops Alternate Shiny
-+*Gogoat Alternate
-~*Gogoat Alternate Shiny
-+*Pangoro Alternate
-~*Pangoro Alternate Shiny
-~Zygarde 10
-~Zygarde Complete
-+*Golisopod Alternate
-~*Golisopod Alternate Shiny
-~Zacian Crowned_Sword
-~Zamazenta Crowned_Shield
-+*Roaring_Moon Alternate
-~*Roaring_Moon Alternate Shiny
+~*Missingno_ Turban
+~*Missingno_ Browt
+~*Missingno_ Pombon
++*Missingno_ Gecqua
+~*Missingno_ Gecqua Shiny
+~*Raticate Altcolor Shiny Female
+~*Raticate Altcolor  Female
++Pikachu Mr_Windychu
+~Pikachu Mr_Windychu Shiny
++Pikachu Ms_Wavychu
+~Pikachu Ms_Wavychu Shiny
+~*Raichu Mega_X
+~*Raichu Mega_Y
++Raichu Altcolor
+~Raichu Altcolor Shiny
+~*Raichu Altcolor Shiny Female
+~*Raichu Altcolor  Female
++Raichu Alternate
+~Raichu Alternate Shiny
++Clefable Mega
+~Clefable Mega Shiny
++*Clefable Altcolor
+~*Clefable Altcolor Shiny
+~*Vileplume Alternate
++*Machamp Alternate
+~*Machamp Alternate Shiny
+~*Victreebel Mega
++Victreebel Altcolor
+~Victreebel Altcolor Shiny
++*Victreebel Mega_Altcolor
+~*Victreebel Mega_Altcolor Shiny
+~*Slowbro Alternate
++*Slowbro Galar_Alternate
+~*Slowbro Galar_Alternate Shiny
++*Magneton Alternate
+~*Magneton Alternate Shiny
++Starmie Mega
+~Starmie Mega Shiny
+~*Eevee Alternate
+~*Eevee Alternate2
+~*Articuno Alternate
+~*Dragonite Mega
++Dragonite Altcolor
+~Dragonite Altcolor Shiny
+~*Meganium Mega
+~*Meganium Alternate
++Meganium Alternate2
+~Meganium Alternate2 Shiny
+~*Meganium Alternate2 Shiny Female
+~*Meganium Alternate2  Female
+~*Feraligatr Mega
++Feraligatr Alternate
+~Feraligatr Alternate Shiny
++*Ledian Alternate
+~*Ledian Alternate Shiny
++*Aipom Alternate
+~*Aipom Alternate Shiny
+~*Aipom Alternate Shiny Female
+~*Aipom Alternate  Female
++*Umbreon Alternate
+~*Umbreon Alternate Shiny
++*Gligar Alternate
+~*Gligar Alternate Shiny
+~*Qwilfish Alternate
++*Scizor Alternate
+~*Scizor Alternate Shiny
++*Swinub Alternate
+~*Swinub Alternate Shiny
+~*Skarmory Mega
++Skarmory Cutscene
+~Skarmory Cutscene Shiny
++*Skarmory Alternate
+~*Skarmory Alternate Shiny
++*Stantler Alternate
+~*Stantler Alternate Shiny
+~*Larvitar Alternate
++*Tyranitar Alternate
+~*Tyranitar Alternate Shiny
++*Lugia Shadow_Alternate
+~*Lugia Shadow_Alternate Shiny
++*Blaziken Mega_Alternate
+~*Blaziken Mega_Alternate Shiny
+~*Mudkip Alternate
++*Lombre Altcolor
+~*Lombre Altcolor Shiny
++*Lombre Cutscene_Altcolor
+~*Lombre Cutscene_Altcolor Shiny
++*Gardevoir Alternate
+~*Gardevoir Alternate Shiny
++*Masquerain Altcolor
+~*Masquerain Altcolor Shiny
+~*Wailmer Alternate
+~Camerupt  Shiny Male
+~Camerupt   Male
+~*Camerupt Altcolor Shiny Male
+~*Camerupt Altcolor  Male
+~*Chimecho Mega
++Chimecho Altcolor
+~Chimecho Altcolor Shiny
++*Chimecho Mega_Altcolor
+~*Chimecho Mega_Altcolor Shiny
++*Chimecho Cutscene
+~*Chimecho Cutscene Shiny
+~*Absol Mega_Z
+~*Absol Cutscene
+~Absol Alternate
++*Absol Mega_Altcolor
+~*Absol Mega_Altcolor Shiny
++*Absol Mega_Z_Altcolor
+~*Absol Mega_Z_Altcolor Shiny
++*Registeel Altcolor
+~*Registeel Altcolor Shiny
++*Groudon Altcolor
+~*Groudon Altcolor Shiny
++*Rayquaza Alternate
+~*Rayquaza Alternate Shiny
++*Monferno Altcolor
+~*Monferno Altcolor Shiny
++*Starly Alternate
+~*Starly Alternate Shiny
++Staraptor Mega
+~Staraptor Mega Shiny
++*Chingling Altcolor
+~*Chingling Altcolor Shiny
++*Stunky Altcolor
+~*Stunky Altcolor Shiny
++*Bronzong Altcolor
+~*Bronzong Altcolor Shiny
+~*Garchomp Mega_Z
+~*Garchomp Altcolor
++Garchomp Alternate
+~Garchomp Alternate Shiny
+~*Lucario Mega_Z
++Lucario Alternate
+~Lucario Alternate Shiny
++*Abomasnow Alternate
+~*Abomasnow Alternate Shiny
+~*Porygon_Z Altcolor
++Froslass Mega
+~Froslass Mega Shiny
++*Palkia Alternate
+~*Palkia Alternate Shiny
+~*Heatran Mega
++Heatran Altcolor
+~Heatran Altcolor Shiny
+~Darkrai Mega
+~*Darkrai Altcolor
++Darkrai Cutscene_Altcolor
+~Darkrai Cutscene_Altcolor Shiny
++*Darkrai Mega_Altcolor
+~*Darkrai Mega_Altcolor Shiny
++*Shaymin Sky_Alternate
+~*Shaymin Sky_Alternate Shiny
++*Tepig Alternate
+~*Tepig Alternate Shiny
++Emboar Mega
+~Emboar Mega Shiny
++Excadrill Mega
+~Excadrill Mega Shiny
++Scolipede Mega
+~Scolipede Mega Shiny
++*Sandile Alternate
+~*Sandile Alternate Shiny
++Scrafty Mega
+~Scrafty Mega Shiny
++*Klink Alternate
+~*Klink Alternate Shiny
++*Klang Alternate
+~*Klang Alternate Shiny
++*Klinklang Alternate
+~*Klinklang Alternate Shiny
++Eelektross Mega
+~Eelektross Mega Shiny
++Chandelure Mega
+~Chandelure Mega Shiny
++*Fraxure Temp
+~*Fraxure Temp Shiny
++*Mienfoo Alternate
+~*Mienfoo Alternate Shiny
++Golurk Mega
+~Golurk Mega Shiny
++*Meloetta Beta
+~*Meloetta Beta Shiny
++Chesnaught Mega
+~Chesnaught Mega Shiny
++Delphox Mega
+~Delphox Mega Shiny
+~Greninja Mega
++Pyroar Mega
+~Pyroar Mega Shiny
++Floette Mega
+~Floette Mega Shiny
+~*Meowstic Mega
++Meowstic Female_Alternate
+~Meowstic Female_Alternate Shiny
++Malamar Mega
+~Malamar Mega Shiny
++Barbaracle Mega
+~Barbaracle Mega Shiny
++Dragalge Mega
+~Dragalge Mega Shiny
+~*Hawlucha Mega
++Hawlucha Beta
+~Hawlucha Beta Shiny
+~*Zygarde Mega
++Zygarde Complete_Skytemple
+~Zygarde Complete_Skytemple Shiny
++*Zygarde Mega_Skytemple
+~*Zygarde Mega_Skytemple Shiny
++Crabominable Mega
+~Crabominable Mega Shiny
+~*Golisopod Mega
++Golisopod Alternate
+~Golisopod Alternate Shiny
++Drampa Mega
+~Drampa Mega Shiny
++Magearna Mega
+~Magearna Mega Shiny
++Magearna Original_Mega
+~Magearna Original_Mega Shiny
++*Blacephalon Temp
+~*Blacephalon Temp Shiny
+~Zeraora Mega
++Cramorant Gulping
+~Cramorant Gulping Shiny
++Cramorant Gorging
+~Cramorant Gorging Shiny
++*Toxtricity Lowkey_Alternate
+~*Toxtricity Lowkey_Alternate Shiny
+~*Falinks Mega
+~*Falinks Brass
++Falinks Trooper
+~Falinks Trooper Shiny
+~*Indeedee Alternate
+~*Indeedee Alternate Shiny Female
+~*Indeedee Alternate  Female
++Scovillain Mega
+~Scovillain Mega Shiny
++*Tinkatink Temp
+~*Tinkatink Temp Shiny
++Glimmora Mega
+~Glimmora Mega Shiny
++Tatsugiri Mega
+~Tatsugiri Mega Shiny
++Tatsugiri Stretchy_Mega
+~Tatsugiri Stretchy_Mega Shiny
++Tatsugiri Droopy_Mega
+~Tatsugiri Droopy_Mega Shiny
++*Dudunsparce Alternate
+~*Dudunsparce Alternate Shiny
++Baxcalibur Mega
+~Baxcalibur Mega Shiny
++*Ting_Lu Temp
+~*Ting_Lu Temp Shiny
