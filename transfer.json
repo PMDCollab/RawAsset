@@ -4612,14 +4612,14 @@
       "0001": {
         "idle": false,
         "name": "Galar",
-        "portrait_dest": 2,
-        "sprite_dest": 2,
+        "portrait_dest": -1,
+        "sprite_dest": -1,
         "subgroups": {
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 2,
-            "sprite_dest": 2,
+            "portrait_dest": -1,
+            "sprite_dest": -1,
             "subgroups": {}
           }
         }
@@ -4627,14 +4627,14 @@
       "0002": {
         "idle": false,
         "name": "Mega",
-        "portrait_dest": 1,
-        "sprite_dest": 1,
+        "portrait_dest": -1,
+        "sprite_dest": -1,
         "subgroups": {
           "0001": {
             "idle": false,
             "name": "Shiny",
-            "portrait_dest": 1,
-            "sprite_dest": 1,
+            "portrait_dest": -1,
+            "sprite_dest": -1,
             "subgroups": {}
           }
         }
